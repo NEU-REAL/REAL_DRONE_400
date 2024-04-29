@@ -1,10 +1,14 @@
-<font size=6> **【东北大学REAL实验室】自主无人机组装教程** </font>
+# **【东北大学REAL实验室】自主无人机组装教程** 
 
 Github链接 [REAL_DRONE_400](https://github.com/NEU-REAL/REAL_DRONE_400/) An open source Drone Suite for Aerial Robot.
 
 本文档是视频教程[【东北大学REAL实验室】自主无人机组装教学视频](https://www.bilibili.com/video/BV1hC411H7rh/)的配套文档
 
 实验室主页 [东北大学REAL-LAB 环境感知与自主导航实验室](http://faculty.neu.edu.cn/fangzheng/zh_CN/zdylm/262140/list/index.htm)
+
+  <div align=center>
+  <img src="misc/单机图片.jpg"  width="600" align="center">
+  </div>
 
 ⭐项目亮点⭐
 
@@ -14,15 +18,15 @@ Github链接 [REAL_DRONE_400](https://github.com/NEU-REAL/REAL_DRONE_400/) An op
 
 ⭐输出高频雷达定位信息。
 
-<font color="#dd0000">* 教程简介 *</font>
+<font color="#dd0000">**教程简介**</font>
 
 本次课程是一套面向对自主空中机器人感兴趣的学生、爱好者、相关从业人员的免费课程，包含了从硬件组装、代码部署、实机实验等全套详细流程。提供一种Fast-Drone-250的升级大负载能力、稳定定位版本自主无人机。本次课程所涉及的所有代码、硬件设计全部开源。<font color="#dd0000">严禁商用与转载，版权与最终解释权由东北大学REAL实验室所有。</font>
 
-<font color="#dd0000">* 安全事项 *</font>
+<font color="#dd0000">**安全事项**</font>
 
 四旋翼无人机具有较高的安全风险，请同学们严格遵守安全规范，不要在有人的室内或室外进行试验，对自己和他人的安全负责，本实验室完全免责。
 
-<font color="#dd0000">* 致谢 *</font>
+<font color="#dd0000">**致谢**</font>
 
 感谢飞哥组里的小伙伴们提供的支持以及[FAST-DRONE-250开源项目](https://github.com/ZJU-FAST-Lab/Fast-Drone-250)以及[完整课程](https://www.shenlanxueyuan.com/course/385?source=1)。有兴趣的各位可以去点点⭐。
 
@@ -50,10 +54,6 @@ Github链接 [REAL_DRONE_400](https://github.com/NEU-REAL/REAL_DRONE_400/) An op
 
   本次课程的重心主要落在自主空中机器人的搭建、代码部署及调试上，关于自主空中机器人的一些理论基础，例如动力学模型，路径搜索，轨迹规划，地图构建等内容，高飞老师在深蓝学院有非常详尽而深入浅出的[课程](https://www.shenlanxueyuan.com/course/385?source=1)，本次课程就不再赘述。
 
-  成品效果如图:
-  <div align=center>
-  <img src="misc/单机图片.jpg"  width="600" align="center">
-  </div>
 
 ## 第二章：动力套焊接
   机器人本体相关配件及焊接用工具详见[purchase_list.xlsx](files/purchase_list.xlsx)
