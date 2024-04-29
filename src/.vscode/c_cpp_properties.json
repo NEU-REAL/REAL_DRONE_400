@@ -1,0 +1,36 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/reallab002/real_drone_400/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/reallab002/real_drone_400/src/planner/bspline_opt/include/**",
+        "/home/reallab002/real_drone_400/src/realflight_modules/VINS-Fusion/camera_models/include/**",
+        "/home/reallab002/real_drone_400/src/utils/DecompROS/decomp_ros_utils/include/**",
+        "/home/reallab002/real_drone_400/src/planner/drone_detect/include/**",
+        "/home/reallab002/real_drone_400/src/planner/plan_manage/include/**",
+        "/home/reallab002/real_drone_400/src/uav_simulator/mockamap/include/**",
+        "/home/reallab002/real_drone_400/src/planner/path_searching/include/**",
+        "/home/reallab002/real_drone_400/src/planner/plan_env/include/**",
+        "/home/reallab002/real_drone_400/src/utils/pose_utils/include/**",
+        "/home/reallab002/real_drone_400/src/utils/quadrotor_msgs/include/**",
+        "/home/reallab002/real_drone_400/src/realflight_modules/realsense-ros/realsense2_camera/include/**",
+        "/home/reallab002/real_drone_400/src/uav_simulator/so3_control/include/**",
+        "/home/reallab002/real_drone_400/src/uav_simulator/so3_quadrotor_simulator/include/**",
+        "/home/reallab002/real_drone_400/src/planner/traj_utils/include/**",
+        "/home/reallab002/real_drone_400/src/utils/uav_utils/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
