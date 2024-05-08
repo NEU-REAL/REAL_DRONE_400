@@ -132,7 +132,6 @@ rostopic echo /Odom_high_freq；
 ```
 sh start_planner.sh;
 sh start_rviz.sh;
-
 ```
 3.启动PX4_ctrl后确认摇杆正确，自动起飞
 ```
@@ -145,6 +144,13 @@ sh start_takeoff.sh;
 ```
 sh start_land.sh；
 ```
+
+# 合作与维护
+我们会努力扩展所提出的系统并提高代码可靠性。持续维护这个项目
+
+如有任何技术问题，请使用此项目的ISSUE功能。
+
+如有商业咨询，请联系东北大学 方正 教授 (fangzheng@mail.neu.edu.cn)。
 
 # 补充说明：
   如果你觉得这个项目对你能够有所帮助，可以点点⭐或者转发分享哦。
