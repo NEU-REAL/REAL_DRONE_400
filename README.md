@@ -58,6 +58,8 @@ Github链接 [REAL_DRONE_400](https://github.com/NEU-REAL/REAL_DRONE_400/) An op
 ## 第二章：动力套焊接
   机器人本体相关配件及焊接用工具详见[purchase_list.xlsx](files/purchase_list.xlsx)
 
+  **特别强调，四合一电调的输入电源线需要并联配套电解电容，且输入电源线规格至少应在14AWG以上，推荐12AWG与电池一致，保证过流能力！**
+
   焊接目标如图
   <div align=center>
   <img src="misc/焊接目标.jpg"  width="600" align="center">
